@@ -14,7 +14,7 @@ CASIA | 98.11 | 97.96 |98.27 | 0.81
  IITD | 97.84| 97.78 |97.91 |0.98
  
 # Data
-We use CASIA V4.0 Interval (Abbr. CASIA) dataset, and the IIT Delhi v1.0 (Abbr. IITD) dataset. The weights we provide are the training results for Gaussian noise. We provide a noisy dataset with Gaussian noise. When training the model, we use a '.npy' file of the dataset.
+We use CASIA V4.0 Interval (Abbr. CASIA) dataset, and the IIT Delhi v1.0 (Abbr. IITD) dataset. The weights we provide (Model/CAV or Model/IITD) are the training results for Gaussian noise. We provide a noisy dataset with Gaussian noise. When training the model, we use a '.npy' file of the dataset.
 
 # Run on GPU
 
